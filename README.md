@@ -12,8 +12,8 @@ Olá! Sou Danilo Deama, um desenvolvedor em desenvolvimento 😆 apaixonado por 
 
 Além de estudar programação, eu gosto de me envolver em diversas atividades para recarregar as energias e manter a criatividade fluindo. Aqui estão alguns dos meus hobbies favoritos:
 
-- **Video Games:** Adoro explorar novos mundos e desafios em jogos. Alguns dos meus favoritos incluem [Mass Effect], [Hollow Knight] e [God of War].
-- **Leitura:** Sou um ávido leitor, especialmente de ficção científica e fantasia. Meus livros favoritos são: [A Saga do Game of Thrones], [Senhor dos Anéis e todos de Tolkien], [Todas as obras do Dan Brown] 
+- **Video Games:** Adoro explorar novos mundos e desafios em jogos. Alguns dos meus favoritos incluem *Mass Effect*, *Hollow Knight* e *God of War*.
+- **Leitura:** Sou um ávido leitor, especialmente de ficção científica e fantasia. Meus livros favoritos são: *Toda Saga do Game of Thrones*, *Senhor dos Anéis e todos de Tolkien*, *Todas as obras do Dan Brown* 
 
 Além disso, adoro passar tempo assistindo seriados com a minha esposa e brincar com minhas duas cachorrinhas, Sakura e Tapioca
 
