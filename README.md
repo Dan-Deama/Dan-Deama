@@ -14,12 +14,13 @@ Olá! Sou Danilo Deama, um desenvolvedor em desenvolvimento 😆 apaixonado por 
 
 Além de estudar programação, eu gosto de me envolver em diversas atividades para recarregar as energias e manter a criatividade fluindo. Aqui estão alguns dos meus hobbies favoritos:
 
-- **Video Games:** Adoro explorar novos mundos e desafios em jogos. Alguns dos meus favoritos incluem *Mass Effect*, *Hollow Knight* e *God of War*.
-- **Leitura:** Sou um ávido leitor, especialmente de ficção científica e fantasia. Meus livros favoritos são: *Toda Saga do Game of Thrones*, *Senhor dos Anéis e todos de Tolkien*, *Todas as obras do Dan Brown*.
-- **Cuidar de Plantas:** Isso na verdade começou por um capricho da minha esposa, para decorar a casa, mas no fim das contas eu peguei gosto, e hoje eu tenho várias hortaliças como Manjerição, Orégano, Cebolinha, Tomilho, Alecrim, duas frutíferas (um pé de Jaboticaba e um pé de limão siciliano), algumas suculentas e outras várias plantas ornamentais. 
+- **Video Games:** Adoro explorar novos mundos e desafios em jogos. Adoro jogos indie, mas também gosto de grandes aventuras e jogos de mundo aberto cheios de ação. Alguns dos meus favoritos são: *Mass Effect (Sheppard Trylogy)*, *Hollow Knight* e *God of War*.
+- **Leitura:** Sou um ávido leitor, especialmente de ficção científica e fantasia. Meus livros favoritos são: *Toda Saga do Game of Thrones*, *Senhor dos Anéis e todos de Tolkien*, e também gosto mundo de *Todas as obras do Dan Brown*.
+- **Cuidar de Plantas:** Isso na verdade começou por um capricho da minha esposa para decorar a casa, mas no fim das contas eu peguei gosto, e hoje eu tenho várias hortaliças como Manjerição, Orégano, Cebolinha, Tomilho, Alecrim, duas frutíferas (um pé de Jaboticaba e um pé de limão siciliano), algumas suculentas e outras várias plantas ornamentais. 
 
-Além disso, adoro passar tempo assistindo seriados com a minha esposa e brincar com minhas duas cachorrinhas, Sakura e Tapioca. Aqui abaixo vou colocar uma foto da minha família completa.
+Além disso, adoro passar tempo assistindo seriados com a minha esposa e brincar com minhas duas cachorrinhas, Sakura e Tapioca. Aqui abaixo vou colocar uma foto da família completa.
 
+<img src="https://github.com/Dan-Deama/Dan-Deama/blob/main/Imagem%20do%20WhatsApp%20de%202025-01-31%20%C3%A0(s)%2001.06.57_1c77584f.jpg" alt="Minha Família" width="400"/>
 
 ## Contato
 <div>
